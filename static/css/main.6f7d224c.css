@@ -1,2 +1,0 @@
-*{-webkit-tap-highlight-color:transparent;box-sizing:border-box;margin:0;padding:0;-webkit-user-select:none;user-select:none}.App{animation:bgColorAnimation 10s linear infinite alternate-reverse;background-image:linear-gradient(90deg,#e68a92,#e6a7a2,#e6c2b1,#c8d9b3,#9cc9c2,#a9b3d1);background-repeat:no-repeat;background-size:20cm;background-size:200%;height:100dvh;overflow:hidden}@keyframes bgColorAnimation{0%{background-position-x:left}to{background-position-x:right}}
-/*# sourceMappingURL=main.6f7d224c.css.map*/
