@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7da66af3.css",
-    "main.js": "/react-gh-pages/static/js/main.40921b6d.js",
-    "static/js/453.238e4d27.chunk.js": "/react-gh-pages/static/js/453.238e4d27.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.7da66af3.css.map": "/react-gh-pages/static/css/main.7da66af3.css.map",
-    "main.40921b6d.js.map": "/react-gh-pages/static/js/main.40921b6d.js.map",
-    "453.238e4d27.chunk.js.map": "/react-gh-pages/static/js/453.238e4d27.chunk.js.map"
+    "main.css": "/eye-relax/static/css/main.7da66af3.css",
+    "main.js": "/eye-relax/static/js/main.e1b846ec.js",
+    "static/js/453.238e4d27.chunk.js": "/eye-relax/static/js/453.238e4d27.chunk.js",
+    "index.html": "/eye-relax/index.html",
+    "main.7da66af3.css.map": "/eye-relax/static/css/main.7da66af3.css.map",
+    "main.e1b846ec.js.map": "/eye-relax/static/js/main.e1b846ec.js.map",
+    "453.238e4d27.chunk.js.map": "/eye-relax/static/js/453.238e4d27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7da66af3.css",
-    "static/js/main.40921b6d.js"
+    "static/js/main.e1b846ec.js"
   ]
 }
